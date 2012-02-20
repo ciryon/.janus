@@ -1,0 +1,18 @@
+[submodule "Conque-Shell"]
+	path = Conque-Shell
+	url = https://github.com/lrvick/Conque-Shell.git
+[submodule "Tail-Bundle"]
+	path = Tail-Bundle
+	url = https://github.com/vim-scripts/Tail-Bundle.git
+[submodule "cocoa.vim"]
+	path = cocoa.vim
+	url = https://github.com/vim-scripts/cocoa.vim.git
+[submodule "hammer.vim"]
+	path = hammer.vim
+	url = git://github.com/robgleeson/hammer.vim.git
+[submodule "vim-markdown-preview"]
+	path = vim-markdown-preview
+	url = https://github.com/groenewege/vim-markdown-preview.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
