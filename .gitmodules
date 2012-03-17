@@ -1,18 +1,32 @@
 [submodule "Conque-Shell"]
 	path = Conque-Shell
 	url = https://github.com/lrvick/Conque-Shell.git
+  ignore = untracked
 [submodule "Tail-Bundle"]
 	path = Tail-Bundle
 	url = https://github.com/vim-scripts/Tail-Bundle.git
+  ignore = untracked
 [submodule "cocoa.vim"]
 	path = cocoa.vim
 	url = https://github.com/vim-scripts/cocoa.vim.git
+  ignore = untracked
 [submodule "hammer.vim"]
 	path = hammer.vim
 	url = git://github.com/robgleeson/hammer.vim.git
+  ignore = untracked
 [submodule "vim-markdown-preview"]
 	path = vim-markdown-preview
 	url = https://github.com/groenewege/vim-markdown-preview.git
+  ignore = untracked
 [submodule "vim-surround"]
 	path = vim-surround
 	url = https://github.com/tpope/vim-surround.git
+  ignore = untracked
+[submodule "vim-logcat"]
+	path = vim-logcat
+	url = https://github.com/thinca/vim-logcat.git
+  ignore = untracked
+[submodule "clang_complete"]
+	path = clang_complete
+	url = https://github.com/Rip-Rip/clang_complete.git
+  ignore = untracked
