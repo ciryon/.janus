@@ -10,10 +10,6 @@
 	path = cocoa.vim
 	url = git@github.com:ciryon/cocoa.vim.git
   ignore = untracked
-[submodule "hammer.vim"]
-	path = hammer.vim
-	url = git://github.com/robgleeson/hammer.vim.git
-  ignore = untracked
 [submodule "vim-markdown-preview"]
 	path = vim-markdown-preview
 	url = https://github.com/groenewege/vim-markdown-preview.git
