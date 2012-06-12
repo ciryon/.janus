@@ -34,3 +34,17 @@
 	path = objc_matchbracket
 	url = https://github.com/qqshfox/objc_matchbracket.git
   ignore = untracked
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+  ignore = untracked
+[submodule "mayansmoke"]
+	path = mayansmoke
+	url = https://github.com/vim-scripts/mayansmoke.git
+  ignore = untracked
+[submodule "vim-css-color"]
+	path = vim-css-color
+	url = https://github.com/skammer/vim-css-color.git
+[submodule "jslint.vim"]
+	path = jslint.vim
+	url = https://github.com/hallettj/jslint.vim.git
