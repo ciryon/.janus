@@ -44,3 +44,6 @@
 [submodule "jslint.vim"]
 	path = jslint.vim
 	url = https://github.com/hallettj/jslint.vim.git
+[submodule "hammer.vim"]
+	path = hammer.vim
+	url = https://github.com/matthias-guenther/hammer.vim.git
